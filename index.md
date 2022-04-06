@@ -1,12 +1,5 @@
-## 2022-04-06 20:51:38 updated
-
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
-{: .tablelines}
+## ETH feature tracker 
+### 2022-04-06 20:51:38 updated
 
  | EIP Number | Title | Release_info | Commit_info |  Block_number|
  | :--- | :--- | :--- | :--- | :--- |
