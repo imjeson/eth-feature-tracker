@@ -1,7 +1,7 @@
 ## 2022-04-07 00:23:35 updated
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
+| I | O | T | X |
+| - | - | - | - |
+
 
  | EIP Number | Title | Release_info | Commit_info |  Block_number|
  | :--- | :--- | :--- | :--- | :--- |
