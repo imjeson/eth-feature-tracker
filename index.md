@@ -1,8 +1,4 @@
 ## 2022-04-07 00:23:35 updated
-| I | O | T | X |
-| - | - | - | - |
-
-
  | EIP Number | Title | Release_info | Commit_info |  Block_number|
  | :--- | :--- | :--- | :--- | :--- |
   | 1559 | Fee market change for ETH 1.0 chain | Vallhallan Threshold (v1.10.12) | #24017#24029 | 12,965,000 | 
